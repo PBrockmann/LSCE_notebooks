@@ -8,3 +8,4 @@
 
 * How to extract continent shorelines from a NEMO configuration ?
   * [pyvista-vtk_extracting_continents.ipynb](https://github.com/PBrockmann/LSCE_notebooks/blob/main/pyvista-vtk_extracting_continents.ipynb)
+  * [View it as html](https://htmlpreview.github.io/?https://github.com/PBrockmann/LSCE_notebooks/blob/main/pyvista-vtk_extracting_continents.html)

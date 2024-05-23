@@ -13,5 +13,9 @@
   * [pyvista-vtk_extracting_continents.ipynb](https://github.com/PBrockmann/LSCE_notebooks/blob/main/pyvista-vtk_extracting_continents.ipynb)
   * [View it with interactivity](https://htmlpreview.github.io/?https://github.com/PBrockmann/LSCE_notebooks/blob/main/pyvista-vtk_extracting_continents.html)
 
-* Mapping DYNAMICO output
-  * [pyvista_DYNAMICO_orthographic.ipynb](https://github.com/PBrockmann/LSCE_notebooks/blob/main/pyvista_DYNAMICO_orthographic.ipynb)
+* Mapping DYNAMICO with cartopy
+  * [cartopy_DYNAMICO.ipynb](https://github.com/PBrockmann/LSCE_notebooks/blob/main/cartopy_DYNAMICO.ipynb)
+ 
+* Mapping DYNAMICO with pyvista/geovista
+  * [geovista_DYNAMICO.ipynb](https://github.com/PBrockmann/LSCE_notebooks/blob/main/geovista_DYNAMICO.ipynb)
+

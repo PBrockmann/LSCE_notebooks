@@ -19,3 +19,8 @@
 * Mapping DYNAMICO with pyvista/geovista
   * [geovista_DYNAMICO.ipynb](https://github.com/PBrockmann/LSCE_notebooks/blob/main/geovista_DYNAMICO.ipynb)
 
+# Create environnement to run notebooks
+
+ * conda env create --name yourenvname --file=environments.yml
+ * conda activate yourenvname
+ * jupyter lab 
